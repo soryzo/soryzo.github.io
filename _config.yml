@@ -3,8 +3,8 @@ logo: "/images/profilepic.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br>Research interests include statistical modeling, machine learning classification, and data warehousing. Experience with R, SQL, C#, SSRS,SSIS, AWS, Vb.NET, Python and SAS, IIS.<br>
-  Second description 
-  <br><br>
+  #Second description 
+  #<br><br>
   <a href="https://www.linkedin.com/in/sory-cisse-9ba14533">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
